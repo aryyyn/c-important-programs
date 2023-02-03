@@ -25,4 +25,4 @@ int main()
     aryn.display();
 }
 
-In this above program. Encapsulation is a class where there are important information stored and this class can only be accessed by aryn which is an object of the class.
+//In this above program. Encapsulation is a class where there are important information stored and this class can only be accessed by aryn which is an object of the class.
